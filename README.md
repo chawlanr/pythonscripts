@@ -25,5 +25,5 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 
-[Link to Microsoft Training](/training)
+[Link to Microsoft Training](https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/?practice-assessment-type=certification)
 
