@@ -1,5 +1,14 @@
 # Understanding GitHub-Flavored Markdown Language #
 
+# This is H1 Heading #
+## This is H2 Heading #
+### This is H3 Heading #
+#### This is H4 Heading #
+##### This is H5 Heading #
+###### This is H6 Heading #
+
+
+
 This is *italic* text.
 This is also _italic_ text.
 
