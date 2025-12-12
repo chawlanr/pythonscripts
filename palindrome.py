@@ -15,8 +15,9 @@ if(string not in " \n\t"):
             count+=1
             continue
     if(count==half):
-        print("Entered string is Palindrome")
+        print("Entered string is Palindrome!!")
+        print("New LINE")
     else:
-        print("Entered string is not Palindrome")
+        print("Entered string is not Palindrome!!")
 else:
     print("Entered is either empty string or not a string")
